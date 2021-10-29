@@ -33,6 +33,7 @@
 
 /* mobile or only mobile */
 @media (max-width: 767px) {
+	
 	.navbar-light .navbar-brand{
 		margin-left: 15px;
 	}
