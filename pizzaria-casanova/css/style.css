@@ -183,11 +183,11 @@ button:focus{
 }
 
 .top-navbar .navbar-light .navbar-nav .nav-item .nav-link:hover{
-	background: #ff3838;
+	background: #d63031;
 	color: #ffffff;
 }
 .top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link{
-	background: #ff3838;
+	background: #d63031;
 	color: #ffffff;
 	border-radius: 4px;
 }
@@ -204,11 +204,11 @@ button:focus{
 }
 
 .navbar-expand-lg .navbar-nav .dropdown-menu a.dropdown-item:hover{
-	background: #ff3838;
+	background: #d63031;
 	color: #ffffff;
 }
 .navbar-light .navbar-toggler:hover{
-	background: #ff3838;
+	background: #d63031;
 }
 
 /*------------------------------------------------------------------
@@ -219,7 +219,7 @@ button:focus{
 	height: 100vh;
 }
 .slides-navigation a {
-	background: #ff3838;
+	background: #d63031;
     position: absolute;
     height: 50px;
     width: 50px;
@@ -275,9 +275,9 @@ button:focus{
 }
 .btn-outline-new-white {
     color: #fff;
-    background-color: #ff3838;
+    background-color: #d63031;
     background-image: none;
-    border-color: #ff3838;
+    border-color: #d63031;
 }
 .btn-outline-new-white:hover {
     color: #ffffff;
@@ -309,8 +309,8 @@ button:focus{
 	border: 2px solid #ffffff;
 }
 .slides-pagination a.current{
-	background: #ff3838;
-	border: 2px solid #ff3838;
+	background: #d63031;
+	border: 2px solid #d63031;
 }
 
 /*------------------------------------------------------------------
@@ -323,7 +323,7 @@ button:focus{
 	background-size: cover;
 }
 .about-section-box .img-fluid{
-	box-shadow: 20px 20px 0px #ff3838;
+	box-shadow: 20px 20px 0px #d63031;
 }
 .lightbox img {
     border-radius: 5px;
@@ -338,7 +338,7 @@ button:focus{
 	font-weight: 500;
 }
 .inner-column h1 span{
-	color: #ff3838;
+	color: #d63031;
 }
 .inner-column h4{
 	font-size: 16px;
@@ -408,13 +408,13 @@ button:focus{
 
 .inner-menu-box{}
 .inner-menu-box .nav-pills .nav-link.active{
-	background: #ff3838;
+	background: #d63031;
 }
 .inner-menu-box .nav-pills .nav-link{
 	font-size: 18px;
 }
 .inner-menu-box .nav-pills .nav-link:hover{
-	background: #ff3838;
+	background: #d63031;
 	color: #ffffff;
 }
 
@@ -518,7 +518,7 @@ button:focus{
 }
 
 .text-warning{
-	color: #ff3838 !important;
+	color: #d63031 !important;
 	font-size: 24px;
 }
 
@@ -538,7 +538,7 @@ button:focus{
 }
 
 #reviews .carousel-control-prev{
-	background: #ff3838;
+	background: #d63031;
 	color: #ffffff;
 	display: block;
 	position: absolute;
@@ -556,7 +556,7 @@ button:focus{
 }
 
 #reviews .carousel-control-next{
-	background: #ff3838;
+	background: #d63031;
 	color: #ffffff;
 	display: block;
 	position: absolute;
@@ -578,7 +578,7 @@ button:focus{
 -------------------------------------------------------------------*/
 
 .contact-imfo-box{
-	background: #ff3838;
+	background: #d63031;
 	padding: 30px 0;
 	border-radius: 20px;
 }
@@ -603,7 +603,7 @@ button:focus{
 	line-height: 60px;
 	text-align: center;
 	background: #fff;
-	color: #ff3838;
+	color: #d63031;
 	font-size: 30px;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
@@ -685,7 +685,7 @@ button:focus{
 	position: absolute;
 	right: 0px;
 	top: 0;
-	color: #ff3838;
+	color: #d63031;
 	font-size: 60px;
 	line-height: 60px;
 }
@@ -701,14 +701,14 @@ button:focus{
 	margin-bottom: 15px;
 }
 .footer-area p.lead a:hover{
-	color: #ff3838;
+	color: #d63031;
 }
 .footer-area p a{
 	font-size: 18px;
 	color: #ffffff;
 }
 .footer-area p a:hover{
-	color: #ff3838;
+	color: #d63031;
 }
 
 .subscribe_form {
@@ -732,7 +732,7 @@ button:focus{
 }
 
 .subscribe_form .submit {
-    background-color: #ff3838;
+    background-color: #d63031;
     color: #fff;
     font-size: 16px;
     font-weight: 500;
@@ -897,7 +897,7 @@ button:focus{
     content: "";
     width: 100%;
     height: 100%;
-    background: #ff3838;
+    background: #d63031;
     border-radius: 0 20px 20px 20px;
     position: absolute;
     top: 0;
@@ -911,7 +911,7 @@ button:focus{
     font-size: 22px;
     font-weight: 700;
     letter-spacing: 2px;
-    color: #ff3838;
+    color: #d63031;
     text-transform: uppercase;
     margin-bottom: 7px;
 }
@@ -950,22 +950,22 @@ button:focus{
 	min-height: 50px;
 }
 .form-control:focus{
-	border: 1px solid #ff3838;
+	border: 1px solid #d63031;
 	box-shadow: none;
 }
 
 .form-group .picker__input.picker__input--active{
-	border-color: #ff3838;
+	border-color: #d63031;
 }
 
 .submit-button{
 	margin-top: 20px;
 }
 .btn.btn-common{
-	color: #ff3838;
+	color: #d63031;
 	background-color: transparent;
 	background-image: none;
-	border-color: #ff3838;
+	border-color: #d63031;
 }
 .btn.btn-common:hover{
 	color: #ffffff;
@@ -1006,7 +1006,7 @@ button:focus{
     padding: 0px 5px;
 }
 .blog-detail ul li span{
-	color: #ff3838;
+	color: #d63031;
 	cursor: pointer;
 }
 .blog-detail ul li span:hover{
@@ -1048,7 +1048,7 @@ button:focus{
     position: absolute;
     right: 0px;
     top: 0px;
-    background: #ff3838;
+    background: #d63031;
     font-size: 18px;
     color: #ffffff;
     padding: 5px 15px 5px 5px;
@@ -1070,13 +1070,13 @@ button:focus{
     color: #222222;
 }
 .inner-blog-detail ul li span {
-    color: #ff3838;
+    color: #d63031;
 }
 .inner-blog-detail p {
     padding: 10px 0px;
 }
 .details-page blockquote {
-    border-left: 5px solid #ff3838;
+    border-left: 5px solid #d63031;
 }
 .details-page blockquote {
     padding: 20px;
@@ -1124,11 +1124,11 @@ blockquote {
     font-size: 12px;
 }
 .line-left-social ul li a:hover {
-    background: #ff3838;
+    background: #d63031;
     color: #ffffff;
 }
 .line-right-social ul li a:hover {
-    background: #ff3838;
+    background: #d63031;
     color: #ffffff;
 }
 .line-right-social h5 {
@@ -1187,7 +1187,7 @@ blockquote {
     border-radius: 6px;
 }
 .right-btn-re:hover {
-    background: #ff3838;
+    background: #d63031;
     color: #ffffff !important;
 }
 .comment-respond-box {
@@ -1217,10 +1217,10 @@ blockquote {
 }
 
 .btn-submit{
-	color: #ff3838;
+	color: #d63031;
 	background-color: transparent;
 	background-image: none;
-	border-color: #ff3838;
+	border-color: #d63031;
 }
 .btn-submit:hover{
 	color: #ffffff;
@@ -1277,7 +1277,7 @@ blockquote {
     width: 100%;
 }
 .blog-categories ul li a:hover{
-	color: #ff3838;
+	color: #d63031;
 }
 .recent-box-blog {
     margin-bottom: 20px;
@@ -1295,7 +1295,7 @@ blockquote {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #ff3838;
+    background-color: #d63031;
     opacity: 0.4;
     transform: scale(0);
     -webkit-transform: scale(0);
@@ -1344,7 +1344,7 @@ blockquote {
 }
 .blog-tag-box ul li a:hover {
     color: #ffffff;
-    background: #ff3838;
+    background: #d63031;
 }
 
 .contact-box{
@@ -1367,7 +1367,7 @@ blockquote {
     height: 40px;
     text-align: center;
     line-height: 40px;
-    background: #ff3838;
+    background: #d63031;
     color: #ffffff;
     cursor: pointer;
     border: 0;
