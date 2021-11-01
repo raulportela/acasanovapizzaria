@@ -1,0 +1,2 @@
+RewriteEngine ON
+RewriteEngine %{.^}$ index.php [NC, L, QSA]
